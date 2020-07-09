@@ -6,3 +6,4 @@ Demo how to use github
 * What is pull request and how to use it 
 * merge & featch vs pull
 * finish
+* [Владимир Точилин] <https://github.com/Naton1977>

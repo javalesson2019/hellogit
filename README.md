@@ -13,3 +13,4 @@ Demo how to use github
 * [Владимир Точилин](Naton@i.ua)
 * [Подольский Роман](https://github.com/romaxx131313)
 * [Ерёменко Данил](https://github.com/kehboard)
+* [Вадим Кукуяшный](https://github.com/starsonic73)

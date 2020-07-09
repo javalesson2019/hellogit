@@ -8,5 +8,6 @@ Demo how to use github
 * finish
 * [Aleksej Zhuravlev](https://github.com/Aleksej-star)
 * [Максим Шаптала](https://github.com/javalesson2019)
-* [Подольский Роман](https://github.com/romaxx131313)
-* [Подольский Роман](https://github.com/kehboard)
+*[Владимир Точилин](Naton@i.ua)
+*[Подольский Роман](https://github.com/romaxx131313)
+* [Ерёменко Данил](https://github.com/kehboard)

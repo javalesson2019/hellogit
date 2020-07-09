@@ -7,3 +7,5 @@ Demo how to use github
 * merge & featch vs pull
 * finish
 * [Владимир Точилин] <https://github.com/Naton1977>
+
+* [Максим Шаптала](https://github.com/javalesson2019)

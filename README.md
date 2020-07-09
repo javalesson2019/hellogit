@@ -9,3 +9,4 @@ Demo how to use github
 * [Aleksej Zhuravlev](https://github.com/Aleksej-star)
 
 * [Максим Шаптала](https://github.com/javalesson2019)
+* [Александр Ромашов] (https://github.com/Alex0965)
